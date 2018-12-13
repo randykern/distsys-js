@@ -1,0 +1,22 @@
+{
+  "name": "distsys",
+  "version": "0.0.0",
+  "description": "Distributed systems components for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randykern/distsys-js.git"
+  },
+  "author": "Randy Kern <randy@teamkern.net>",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/randykern/distsys-js/issues"
+  },
+  "homepage": "https://github.com/randykern/distsys-js#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
